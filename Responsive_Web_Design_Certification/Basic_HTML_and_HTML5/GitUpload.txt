@@ -1,6 +1,0 @@
-# MacBook-Pro:~/GitHub/freeCodeCamp$ git remote add origin https://github.com/pochtan/freeCodeCamp.git
-# MacBook-Pro:~/GitHub/freeCodeCamp$ git remote -v
-# MacBook-Pro:~/GitHub/freeCodeCamp$ git init
-# MacBook-Pro:~/GitHub/freeCodeCamp$ git add .
-# MacBook-Pro:~/GitHub/freeCodeCamp$ git commit -m "First commit"
-# MacBook-Pro:~/GitHub/freeCodeCamp$ git push -u origin master
